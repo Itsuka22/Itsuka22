@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Study At Dian Nuswantoro University<br>🌱 I’m currently learning Android Java, Kotlin
+🔭 I’m currently Study At Dian Nuswantoro University<br>🌱 I’m currently learning React, Laravel, Javascript
 
 # 📊 GitHub Stats:
 
